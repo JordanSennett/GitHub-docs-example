@@ -36,7 +36,7 @@ use the following format to creat tables
 | Cloud with lightning | `:cloud_with_lightning` | 🌩️ | 
 ```
 
-[Secret Window Hidden Garden](secret-window/hidden-garden)
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 
 ## External References 
