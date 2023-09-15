@@ -26,7 +26,7 @@ Here are some examples:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lightning | `:cloud_with_lightning` | 🌩️ | 
 
-# Step 5 how to create a table
+# Step 5 how to create a table [^1]
 use the following format to creat tables
 
 ```md
@@ -43,5 +43,5 @@ use the following format to creat tables
 - [GFM - Basic writing and formatting syntax]https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links<sup2></sup>
 - [GFM Tables (with extensions)] https://github.github.com/gfm/#tables-extension-
 
-![Head Shot](Assets/Profile-Photo.jpeg)
+![Head Shot](Assets/ProfilePhoto.jpeg)
 
