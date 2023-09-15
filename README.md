@@ -11,7 +11,7 @@ It allows thers to copy and paste their code to replicate or research issues
 -[x] Finish Step 3
 ## Step 2 How to take screenshots
 
-![command shift 5 or 6](screenshot.png)
+![command shift 5 or 6](Assets/screenshot.png)
 
 
 use computer to screen shot stuff..basically
@@ -43,5 +43,5 @@ use the following format to creat tables
 - [GFM - Basic writing and formatting syntax]https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links<sup2></sup>
 - [GFM Tables (with extensions)] https://github.github.com/gfm/#tables-extension-
 
-![Head Shot](assets/Profile-Photo.jpeg)
+![Head Shot](Assets/Profile-Photo.jpeg)
 
